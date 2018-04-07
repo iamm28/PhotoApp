@@ -4,7 +4,7 @@
 This is an instagram clone featuring content from NBC’s The Office created in Ruby on Rails
 
 ## Using the Site
-A user can sign up or log in to post, comment, and like photos just like Instagram. In the demo below since I do not log in and I can only view content by tag, location, and user profiles.
+A user can sign up or log in to post, comment, and like photos just like Instagram. In the demo below since I do not log in I can only view content by tag, location, and user profiles.
 
 ## Demo
 https://youtu.be/TyiHQvRJMI8
